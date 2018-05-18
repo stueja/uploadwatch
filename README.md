@@ -4,4 +4,3 @@ In more detail, onlinetvrecorder.com sends a video to my FTP server. The FTP ser
 
 Uploadwatch.sh then parses the file name and the file itself, creates preview images, moves the file according to its extension and stores it into a database.
 
-
